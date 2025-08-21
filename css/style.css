@@ -57,7 +57,7 @@
     z-index: -1;
 }
 
-.popup .show{
+.popup.show{
     opacity: 1;
     z-index: 1;
 }
